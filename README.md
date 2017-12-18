@@ -19,5 +19,6 @@
 
 ## Automation Guild: https://automationguild.com/
 ## Quality Jam: http://qualityjam.net/
+## testbash: https://dojo.ministryoftesting.com/events
 
 
