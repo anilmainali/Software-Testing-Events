@@ -18,5 +18,6 @@
 
 
 ## Automation Guild: https://automationguild.com/
+## Quality Jam: http://qualityjam.net/
 
 
