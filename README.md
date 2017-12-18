@@ -12,6 +12,7 @@ Official Homepage:
 You Tube Channel: https://www.youtube.com/channel/UC7PKkTSAHdeejs2RLEDJNWg
 
 ## 3. CMG
-Official Homepage: https://www.cmg.org/
+- Official Homepage: https://www.cmg.org/
+- Twitter: https://twitter.com/cmgnews
 
 
