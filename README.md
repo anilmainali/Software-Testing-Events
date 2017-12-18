@@ -17,3 +17,6 @@
 - LinkedIn: https://www.linkedin.com/groups/125056
 
 
+## Automation Guild: https://automationguild.com/
+
+
