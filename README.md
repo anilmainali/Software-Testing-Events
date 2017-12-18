@@ -22,5 +22,6 @@
 ## testbash: https://dojo.ministryoftesting.com/events
 ## SeleniumConf: https://seleniumconf.us/
 ## Quest for Quality : http://questforquality.eu/
+## Conference for the Association for Software Testing (CAST) : https://www.associationforsoftwaretesting.org/conference/
 
 
