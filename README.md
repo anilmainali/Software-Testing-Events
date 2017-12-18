@@ -14,5 +14,6 @@
 ## 3. CMG
 - Official Homepage: https://www.cmg.org/
 - Twitter: https://twitter.com/cmgnews
+- LinkedIn: https://www.linkedin.com/groups/125056
 
 
