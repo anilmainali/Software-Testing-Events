@@ -21,5 +21,6 @@
 ## Quality Jam: http://qualityjam.net/
 ## testbash: https://dojo.ministryoftesting.com/events
 ## SeleniumConf: https://seleniumconf.us/
+## Quest for Quality : http://questforquality.eu/
 
 
