@@ -26,5 +26,6 @@
 ## Nordic Testing Days: https://nordictestingdays.eu/
 ## Romanian Testing Conference: https://www.romaniatesting.ro/
 ## STPCon: http://www.stpcon.com/
+## STAREAST: https://stareast.techwell.com/
 
 
