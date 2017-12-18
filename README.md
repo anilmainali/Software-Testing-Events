@@ -29,5 +29,5 @@
 ## STAREAST: https://stareast.techwell.com/
 ## STARWEST: https://starwest.techwell.com/
 ## SauceCon: https://saucecon.com/
-
+## European Testing Conference: http://europeantestingconference.eu
 
