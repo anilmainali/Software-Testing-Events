@@ -25,4 +25,6 @@
 ## Conference for the Association for Software Testing (CAST) : https://www.associationforsoftwaretesting.org/conference/
 ## Nordic Testing Days: https://nordictestingdays.eu/
 ## Romanian Testing Conference: https://www.romaniatesting.ro/
+## STPCon: http://www.stpcon.com/
+
 
