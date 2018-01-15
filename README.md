@@ -31,4 +31,4 @@
 ## SauceCon: https://saucecon.com/
 ## European Testing Conference: http://europeantestingconference.eu
 ## GTAC 2017: https://events.withgoogle.com/gtac-2017/
-
+## EuroSTAR Software Testing Conference : https://conference.eurostarsoftwaretesting.com/
