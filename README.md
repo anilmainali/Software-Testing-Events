@@ -30,4 +30,5 @@
 ## STARWEST: https://starwest.techwell.com/
 ## SauceCon: https://saucecon.com/
 ## European Testing Conference: http://europeantestingconference.eu
+## GTAC 2017: https://events.withgoogle.com/gtac-2017/
 
